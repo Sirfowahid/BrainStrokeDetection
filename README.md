@@ -24,8 +24,8 @@ A full-stack web application for brain stroke detection and segmentation from MR
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/brain-stroke-detection.git
-   cd brain-stroke-detection
+   git clone https://github.com/Sirfowahid/BrainStrokeDetection.git
+   cd BrainStrokeDetection
    ```
 
 2. Build the Docker image
